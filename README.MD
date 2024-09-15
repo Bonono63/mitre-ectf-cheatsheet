@@ -14,7 +14,7 @@ usbipd allows windows to pass usb/serial devices through to WSL, more about this
 Windows 11:
 Powershell -> 
 ##
-    ```wsl --install```
+    wsl --install
 
 Windows 10:
 Powershell -> ```wsl --install``` -> ```wsl --install Ubuntu```
