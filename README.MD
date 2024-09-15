@@ -23,7 +23,7 @@ Powershell -> ```wsl --install``` -> ```wsl --install Ubuntu```
 
 Follow the instructions on this page to install brew: [brew](https://brew.sh/)
 
-### ALL :: Install Git
+### ALL | Install Git
 
 Do this step either in a WSL shell on windows or on your main system on OSX or Linux.
 
@@ -32,7 +32,7 @@ terminal -> ```brew install git```
 
 Linux: [visit](https://git-scm.com/download/linux)
 
-### ALL :: Install Nix
+### ALL | Install Nix
 
 1. terminal -> ```bash <(curl -L https://nixos.org/nix/install) --no-daemon```
 
@@ -49,14 +49,14 @@ powershell -> ```wsl --shutdown -d Ubuntu```
 > [!NOTE]
 > hopefully this spring season we can use flakes and you no longer need to use version 19.09 since flakes are version independent.
 
-### WSL/Linux :: Install unzip
+### WSL/Linux | Install unzip
 
 terminal -> sudo apt install unzip
 >[!NOTE]
 > Most minimalist linux distrobutions do not come with a program for decompressing zip files.
 > This includes the Ubuntu WSL distrobution since zip decompression is not necessarily required for regular use.
 
-### ALL :: Clone Repository
+### ALL | Clone Repository
 
 1. Navigate to desired project home directory
 
@@ -67,7 +67,7 @@ terminal -> sudo apt install unzip
 >[!IMPORTANT]
 > This will not be the same process for obtaining the team's repository in the future this is temporary.
 
-### ALL :: First Time Environment Setup (Required everytime you clone a repo based on MITRE's 2024 eCTF repo)
+### ALL | First Time Environment Setup (Required everytime you clone a repo based on MITRE's 2024 eCTF repo)
 
 1. navigate to root directory of project.
 
