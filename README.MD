@@ -11,8 +11,8 @@ usbipd allows windows to pass usb/serial devices through to WSL, more about this
 
 ### Windows | Install WSL
 
-Windows 11:
-Powershell -> 
+>Windows 11
+Powershell:
 ##
     wsl --install
 
