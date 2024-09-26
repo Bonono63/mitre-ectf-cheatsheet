@@ -2,7 +2,7 @@
 
 ### Windows | Install USBipd service
 
-(download)[https://github.com/dorssel/usbipd-win/releases/download/v4.3.0/usbipd-win_4.3.0.msi]
+[download](https://github.com/dorssel/usbipd-win/releases/download/v4.3.0/usbipd-win_4.3.0.msi)
 
 run the exe and follow the installation wizard.
 
